@@ -67,7 +67,7 @@ class Gitlab::Client
     # @option options [String] :external_auth_client_key_pass
     # @option options [Boolean] :external_authorization_service_enabled
     # @option options [String] :external_authorization_service_default_label
-    # @option options [Float] :external_authorization_service_timeout float
+    # @option options [Float] :external_authorization_service_timeout
     # @option options [String] :external_authorization_service_url
     # @option options [Integer] :file_template_project_id
     # @option options [Integer] :first_day_of_week
